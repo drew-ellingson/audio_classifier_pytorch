@@ -1,0 +1,9 @@
+torch
+torchvision
+numpy
+matplotlib
+Counter
+pydub
+scipy
+sklearn
+librosa
