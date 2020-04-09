@@ -3,6 +3,7 @@
 ### TODO:
 
 - Split common code out of each classifier file
+- Add support for arbitrary number of classes.
 - Add main to run process end-to-end
 - Add support for saving and comparing different models.
 - Replace spectrograms with MFCC spectrograms
